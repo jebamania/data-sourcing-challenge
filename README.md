@@ -21,4 +21,8 @@ We then build a list from the new 'Title' column.
 
 ## Part 2: Access The Movie Database API.
 
+In this section I use the output from Section 1, the list of movie titles from the NYT's reviews, to first search and then second to find more details on the found videos using the Id from the initial search.
+
 ## Part 3: Merge and Clean the Data for Export.
+
+Finally, I merge the NYT's article reviews with the IMDB information based on the title and clean up the columns with lists to remove the unwanted characters.
